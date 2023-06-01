@@ -1,5 +1,5 @@
 {
-  "name": "chatgpt-panel",
+  "name": "panel",
   "scripts": {
     "dev": "solid-start dev",
     "build": "solid-start build",
